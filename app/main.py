@@ -21,4 +21,4 @@ if __name__ == '__main__':
 
 
 
-# python -m uvicorn module_16_1:app --reload
+# python -m uvicorn app.main:app --reload
